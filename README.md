@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jakub Samek/ Aracian
 - 👀 I’m interested in programming, UI/UX, gaming, cryptocurrencies, music & living
-- 🌱 I’m currently learning JavaScript, Python, UX design
+- 🌱 I’m currently learning JavaScript, Vue.js, UX design
 
 
 <!---
